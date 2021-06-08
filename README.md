@@ -31,7 +31,7 @@ Here you can find the generated model directory:
 
 [Generated Models](https://github.com/DarkShrill/Vision-and-Perception-HW1/tree/master/models) (This link was removed, because it has a big size. If you want to see my result, please contact me!)
 
-#Solution
+# Solution
 
 Here you can find the solution jupiter notebook:
 
